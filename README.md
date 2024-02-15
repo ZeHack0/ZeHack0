@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm BOTREL Ronan, a young student developer, I love informatic since young, below you can see my advancement in programing</p>
+<p align="left">I'm BOTREL Ronan, a young french student developer, I love informatic since young, below you can see my advancement in programing</p>
 
 ###
 
