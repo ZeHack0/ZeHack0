@@ -1,4 +1,7 @@
-# Welcome to my GitHub profile 👋
+# 👋 Welcome to my GitHub profile
+<p align="center">─── ✧･ﾟ:* ✧･ﾟ:* ✧･ﾟ:* ───</p>
+
+###
 
 ## 🧑 About Me
 
