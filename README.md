@@ -1,5 +1,4 @@
-# 👋 Welcome to my GitHub profile
-<p align="center">─── ✧･ﾟ:* ✧･ﾟ:* ✧･ﾟ:* ───</p>
+#<p align="center">👋 Welcome to my GitHub profile</p>
 
 ###
 
