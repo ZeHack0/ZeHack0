@@ -62,6 +62,6 @@
 ## 📫 Contact Me:
 
 <p align="center">
-  Dispo sur Discord : <strong>[TonPseudo#1234]</strong> <br>
-  Ou par mail : <strong>tonmail@gmail.com</strong>
+  Dispo sur Discord : <strong>zehack#8074</strong> <br>
+  Ou par mail : <strong>botrel.ronan29@gmail.com</strong>
 </p>
