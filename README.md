@@ -4,9 +4,9 @@
 
 <p align="center">
   Hi, I'm <strong>Zehack</strong> 👋<br>
-  🎓 Étudiant à <strong>[Ton école]</strong><br>
+  🎓 Étudiant à <strong>Epitech</strong><br>
   🔧 Passionné par le <strong>dev bas niveau</strong>, les <strong>jeux vidéo</strong> et le <strong>web</strong><br>
-  💡 Actuellement sur des projets comme <strong>[Nom projet 1]</strong>, <strong>[Nom projet 2]</strong><br>
+  💡 Actuellement sur des projets comme mon <strong>Portfolio</strong>, <strong>Wolf3D</strong> (recréation du jeux wolfenstein 3D en CSFML)<br>
   ⚡ Fun fact : <em>Je code mieux à 2h du mat qu’en cours 💀</em>
 </p>
 
