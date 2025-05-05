@@ -4,9 +4,7 @@
 
 ## 🧑 About Me
 
-Hi, I'm [Your Name / Pseudo], a passionate developer currently studying at [Your School or Institution]. I'm deeply interested in software engineering, game development, and cybersecurity. I love building clean, efficient, and impactful projects — especially those that push my limits and help me grow as a developer.
-
-I believe in learning by doing, collaborating with others, and always striving to improve both technically and creatively.
+I'm ZeHack, a French student in my first year at Epitech. My real name is Ronan.
 
 ---
 
