@@ -3,7 +3,7 @@
 ## 💫 About Me:
 
 <p align="center">
-  Hi, I'm <strong>[Ton blaze ici]</strong> 👋<br>
+  Hi, I'm <strong>Zehack</strong> 👋<br>
   🎓 Étudiant à <strong>[Ton école]</strong><br>
   🔧 Passionné par le <strong>dev bas niveau</strong>, les <strong>jeux vidéo</strong> et le <strong>web</strong><br>
   💡 Actuellement sur des projets comme <strong>[Nom projet 1]</strong>, <strong>[Nom projet 2]</strong><br>
