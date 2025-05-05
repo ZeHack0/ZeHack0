@@ -1,67 +1,70 @@
-<h1 align="center">👋 Welcome to my GitHub profile</h1>
+<!-- Profil README style nl1x -->
 
-###
+## 💫 About Me:
 
-## 🧑 About Me
-
-I'm ZeHack, a French student in my first year at Epitech. My real name is Ronan.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-- C / C++  
-- C# (Unity)  
-- JavaScript / TypeScript  
-- Lua  
-- Shell scripting  
-
-**Tools & Frameworks:**  
-- CSFML  
-- React  
-- Docker / Docker Compose  
-- Unity Engine  
-- MySQL  
-- Git & GitHub  
-- Linux (Arch-based)  
+<p align="center">
+  Hi, I'm <strong>[Ton blaze ici]</strong> 👋<br>
+  🎓 Étudiant à <strong>[Ton école]</strong><br>
+  🔧 Passionné par le <strong>dev bas niveau</strong>, les <strong>jeux vidéo</strong> et le <strong>web</strong><br>
+  💡 Actuellement sur des projets comme <strong>[Nom projet 1]</strong>, <strong>[Nom projet 2]</strong><br>
+  ⚡ Fun fact : <em>Je code mieux à 2h du mat qu’en cours 💀</em>
+</p>
 
 ---
 
-## 🚀 Current Projects
+## 🌐 Socials:
 
-- **Wolfenstein 3D Remake** – Rewriting the classic FPS in C with a custom engine.  
-- **Personal Portfolio** – A clean, dark-themed site built with React.  
-- **Game Projects in Unity** – Working on a tile-based RPG and a Minecraft-inspired sandbox.  
-- **Custom Shell in C** – Rebuilding Unix basics from scratch.  
-
-I’m always looking for new challenges, solo or team-based, and love diving into low-level programming or game design logic.
-
----
-
-## 🌱 Currently Learning
-
-- Advanced C# with Unity  
-- Game physics & optimization  
-- Web deployment (Docker + Nginx)  
-- Reverse engineering & binary exploitation basics  
+<p align="center">
+  <a href="https://linkedin.com/in/tonprofil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://tonsite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:tonemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## 📫 Contact
+## 💻 Tech Stack:
 
-- Email: [your-email@example.com]  
-- LinkedIn: [your-linkedin-url]  
-- Portfolio: [your-portfolio-url]  
-
----
-
-## 📌 Side Notes
-
-- 🔒 I care a lot about clean code, readable architecture, and open-source ethics.  
-- 🎧 Most of my commits are powered by chill lo-fi or cyberpunk beats.  
-- 💻 Preferred OS: Arch Linux + Hyprland, because minimal and powerful.  
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tonpseudo&theme=default&show_icons=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonpseudo&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🧠 Currently Learning:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CSFML-000?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-C%23-000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-TS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+---
+
+## 📫 Contact Me:
+
+<p align="center">
+  Dispo sur Discord : <strong>[TonPseudo#1234]</strong> <br>
+  Ou par mail : <strong>tonmail@gmail.com</strong>
+</p>
