@@ -1,49 +1,67 @@
-<h1 align="left">Hello There 👋</h1>
+# 👋 Welcome to my GitHub profile
 
-###
+## 🧑 About Me
 
-<p align="left">I'm BOTREL Ronan, a young french student developer, I love informatic since young, below you can see my advancement in programing</p>
+Hi, I'm [Your Name / Pseudo], a passionate developer currently studying at [Your School or Institution]. I'm deeply interested in software engineering, game development, and cybersecurity. I love building clean, efficient, and impactful projects — especially those that push my limits and help me grow as a developer.
 
-###
+I believe in learning by doing, collaborating with others, and always striving to improve both technically and creatively.
 
-<h6 align="left">May the 4th by with you 🥷</h6>
+---
 
-###
+## 🛠️ Tech Stack
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ronan-botrel-75b82b254/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="60" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ronan_btrl/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="90" height="60" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/1031520408735854622" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="90" height="60" alt="discord logo"  />
-  </a>
-</div>
+**Languages:**  
+- C / C++  
+- C# (Unity)  
+- JavaScript / TypeScript  
+- Lua  
+- Shell scripting  
 
-###
+**Tools & Frameworks:**  
+- CSFML  
+- React  
+- Docker / Docker Compose  
+- Unity Engine  
+- MySQL  
+- Git & GitHub  
+- Linux (Arch-based)  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeHack0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeHack0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ZeHack0&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
+---
 
-###
+## 🚀 Current Projects
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-</div>
+- **Wolfenstein 3D Remake** – Rewriting the classic FPS in C with a custom engine.  
+- **Personal Portfolio** – A clean, dark-themed site built with React.  
+- **Game Projects in Unity** – Working on a tile-based RPG and a Minecraft-inspired sandbox.  
+- **Custom Shell in C** – Rebuilding Unix basics from scratch.  
 
-###
+I’m always looking for new challenges, solo or team-based, and love diving into low-level programming or game design logic.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced C# with Unity  
+- Game physics & optimization  
+- Web deployment (Docker + Nginx)  
+- Reverse engineering & binary exploitation basics  
+
+---
+
+## 📫 Contact
+
+- Email: [your-email@example.com]  
+- LinkedIn: [your-linkedin-url]  
+- Portfolio: [your-portfolio-url]  
+
+---
+
+## 📌 Side Notes
+
+- 🔒 I care a lot about clean code, readable architecture, and open-source ethics.  
+- 🎧 Most of my commits are powered by chill lo-fi or cyberpunk beats.  
+- 💻 Preferred OS: Arch Linux + Hyprland, because minimal and powerful.  
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
