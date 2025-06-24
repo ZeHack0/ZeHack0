@@ -9,7 +9,9 @@
   💡 Currently working on projects like my <strong>Portfolio</strong>
 </p>
 
+
 ---
+
 
 ## 🌐 Socials:
 
@@ -19,7 +21,9 @@
   <a href="mailto:botrel.ronan29@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+
 ---
+
 
 ## 💻 Tech Stack:
 
@@ -50,7 +54,9 @@
   </a>
 </p>
 
+
 ---
+
 
 ## 📊 GitHub Stats:
 
@@ -66,7 +72,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeHack0&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
+
 ---
+
 
 ## 🧠 Currently Learning:
 
@@ -75,7 +83,9 @@
   <img src="https://img.shields.io/badge/React-TS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
+
 ---
+
 
 ## 📫 Contact Me:
 
