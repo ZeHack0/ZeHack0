@@ -71,7 +71,7 @@
 ## 🧠 Currently Learning:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CSFML-000?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-TS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
